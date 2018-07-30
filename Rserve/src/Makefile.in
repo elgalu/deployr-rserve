@@ -1,7 +1,7 @@
 XFILES = Rserve Rserve.dbg
 
 # modify these variables to match your setup
-Rhome = @R_LIBS@
+Rhome = /usr/local/lib/R/site-library
 port  = .
 LIBS  = @LIBS@
 
